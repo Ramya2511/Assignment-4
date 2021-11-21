@@ -1,5 +1,55 @@
 /* Our CSS file. */
 
-.container,.content{
+#container{
     width:100%;
+    padding:30px;
+    padding-top:80px;
+    padding-right:80px;
+    background:lightskyblue;
+  
+}
+*{
+    box-sizing:border-box;
+    
+}
+
+.card{
+    display:flex;
+    margin:0 0 0 80px;
+    
+    
+}
+.image{
+    background:lightgreen;
+    text-align:center;
+    width:400px;
+    padding-bottom:80px;
+}
+img{
+    transform: scale(1.1);
+    
+}
+section{
+    margin:0 0 100px 0;
+  
+}
+a{
+    text-decoration:none;
+    color:white;
+    background:green;
+    padding:10px 17px;
+    cursor:pointer;
+    border-radius: 40px;
+}
+.section-2{
+    text-align:center;
+    background-color:white;
+    padding:100px 200px;
+    width:800px;
+}
+p{
+    padding:20px;
+}
+h1{
+    font-size: 50px;
 }
