@@ -1,49 +1,5 @@
 /* Our CSS file. */
 
-
-#container{
-width: 100%;
-height: 100%;
-background-color:lightblue;
-padding:30px;
-padding-top: 100px;
-}
-.card{
-    display:flex;
-}
-
-.image{
-    background:lightgreen;
-    text-align:center;
-    width:832px;
-}
-img{
-    transform : scale(1.3);
-}
-section{
-
-    margin:0 0 100px 0;
-}
-
-a{
-    text-decoration: none;
-    color:white;
-    background:lightgreen;
-    border:8px solid lightgreen;
-    padding:5px 10px;
-    cursor: pointer;
-    border-radius: 40px;
-}
-.section-2{
-    text-align:center;
-    background:white;
-    width:1000px;
-    padding:20px 100px 20px 100px;
-}
-h1{
-    font-size: 50px;
-}
-p{
-    font-family: Arial, Helvetica, sans-serif;
-    padding:30px;
+.container,.content{
+    width:100%;
 }
