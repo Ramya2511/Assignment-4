@@ -52,7 +52,7 @@ header h1 {
         
     text-indent: -9999px;
         
-    background: url('https://brandeps.com/icon-download/D/Dog-icon-vector-01.svg') no-repeat;
+    background: url('./images/dog-icon.svg') no-repeat;
         
     height: 35px;
         
@@ -63,7 +63,7 @@ header h1 {
     }
 #hero {
 
-    background: url('https://images.all-free-download.com/images/graphiclarge/winter_beautiful_snow_216404.jpg') no-repeat;
+    background: url('./images/park.jpg') no-repeat;
         
     background-size: cover;
         
